@@ -1,7 +1,7 @@
-export default async function DashboardPage() { 
+export default function LandingPage() { 
   return (
     <div className="px-8 py-12 sm:py-16 md:px-20">
-      Landing Page
+      Landing Page (unprotected)
     </div>
   );
 }
